@@ -1,2 +1,2 @@
 # bojuewang.github.io
-个人主页
+Home page
