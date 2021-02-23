@@ -1,2 +1,2 @@
 # bojuewang.github.io
-homepage
+Home page
